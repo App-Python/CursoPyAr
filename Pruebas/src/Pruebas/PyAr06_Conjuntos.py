@@ -1,6 +1,5 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
-from Pruebas.PyAr04_NumerosAndCadenas import palabra
 
 print("\n6.4. Conjuntos¶")
 '''Python también incluye un tipo de dato para conjuntos.
